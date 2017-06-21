@@ -12,14 +12,19 @@
 
 ## やった事
 
-- clud9に登録
+- clud9に登録。
+- [RailsをMacにインストールする]
+  - [Setup Ruby On Rails on macOS 10.12 Sierra](https://gorails.com/setup/osx/10.12-sierra)
 - PR作った。
-  - [ここに好きなPRのURLを入力して下さい。]
+   [PR](https://github.com/Fendo181/RubyonRails_Tutorial/pull/3)
 
 
 ## わかった事
 
+
 ## わからなかった事
+
+- GemfileとGemfile.lockの違い。
 
 ## 参考資料
 
