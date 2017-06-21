@@ -1,0 +1,2 @@
+# RubyonRails_Tutorial
+エンジニア研修で使うRubyonRailsのチュートリアルです。
